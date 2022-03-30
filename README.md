@@ -1,4 +1,4 @@
-# TradingView Charting Library Integration Examples
+# IFDAQ adapted TradingView Charting Library Integration Examples
 
 ## What is Charting Library
 
